@@ -1,0 +1,1 @@
+"\n{\n    \"student\": {\n        \"fname\": \"Aman\",\n        \"lname\": \"Ag\",\n        \"department\" : \"Computer Science\",\n        \"interest\" : [\"ML\",\"AI\"],\n        \"photo\" : \"\"\n        \"contact\": [\n            {\n                \"email\": \"aman@gmail.com\",\n                \"conatct_no\": 7898541230\n            }\n        ]\n        }\n}\n"
